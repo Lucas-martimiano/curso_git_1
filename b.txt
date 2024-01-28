@@ -1,1 +1,1 @@
-Teste do comando "git clone" para atualização do repositório remoto.
+Teste do comando "git clone" para atualização do repositório local.
