@@ -1,1 +1,0 @@
-Acrescentando um texto para teste e análise no "Git log"
